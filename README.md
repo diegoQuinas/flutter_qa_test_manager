@@ -131,5 +131,5 @@ Si tienes preguntas o sugerencias, no dudes en contactarnos:
 ---
 
 <div align="center">
-  <p>Desarrollado con ❤️ por Tu Nombre</p>
+  <p>Desarrollado con ❤️ por Diego Quinas</p>
 </div>
