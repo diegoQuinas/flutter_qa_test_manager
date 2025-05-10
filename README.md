@@ -26,22 +26,6 @@ QA Test Manager es una aplicación multiplataforma desarrollada con Flutter que 
 - **Soporte Multilingüe**: Disponible en español e inglés.
 - **Interfaz Intuitiva**: Diseño moderno y fácil de usar.
 
-## 🖥️ Capturas de Pantalla
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://via.placeholder.com/250x500?text=Lista+de+Casos" alt="Lista de Casos"/></td>
-      <td><img src="https://via.placeholder.com/250x500?text=Detalle+del+Caso" alt="Detalle del Caso"/></td>
-      <td><img src="https://via.placeholder.com/250x500?text=Ejecución+de+Prueba" alt="Ejecución de Prueba"/></td>
-    </tr>
-    <tr>
-      <td align="center">Lista de Casos</td>
-      <td align="center">Detalle del Caso</td>
-      <td align="center">Ejecución de Prueba</td>
-    </tr>
-  </table>
-</div>
 
 ## 🚀 Instalación
 
@@ -125,8 +109,8 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 Si tienes preguntas o sugerencias, no dudes en contactarnos:
 
-- Email: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-- GitHub: [tu-usuario](https://github.com/tu-usuario)
+- Email: [diegoperezgiordan@gmail.com](mailto:diegoperezgiordan@gmail.com)
+- GitHub: [diegoQuinas](https://github.com/diegoQuinas)
 
 ---
 
